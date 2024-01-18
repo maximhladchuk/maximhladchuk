@@ -11,7 +11,7 @@
 
 - 📖 I`m learning React, Redux, TypeScript, NodeJS
 - 💌 You can write to me at maxim.hladchuk@gmail.com
-- 🌈 My dream is that Start writing in my CV that my JS knowledge is 5/5 👀
+- 🌈 My dream is that Start writing in my CV that my JS knowledge is 5/5👀
 
 ## 💻 Work Experience
 | Company | Years | Position | Stack |
