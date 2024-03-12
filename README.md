@@ -1,5 +1,5 @@
 
-<p align="center"># 🏠 Hello👋, my name is Max Maksym Hladchuk</p>
+<p align="center">🏠 Hello👋, my name is Max Maksym Hladchuk</p>
 ### Experienced Front End Developer with expertise in maintenance and front end development of software systems. Equipped with a diverse and promising skill-set. Proficient in various platforms and languages. Familiar with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. And i also love dogs🐶
 
 
@@ -11,7 +11,6 @@
 
 - 📖 I`m learning React, Redux, TypeScript, NodeJS
 - 💌 You can write to me at maxim.hladchuk@gmail.com
-- 🌈 My dream is that Start writing in my CV that my JS knowledge is 5/5👀
 
 ## 💻 Work Experience
 | Company | Years | Position | Stack |
