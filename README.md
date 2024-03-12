@@ -1,6 +1,6 @@
 
 <p align="center">🏠 Hello👋, my name is Max Maksym Hladchuk</p>
-### Experienced Front End Developer with expertise in maintenance and front end development of software systems. Equipped with a diverse and promising skill-set. Proficient in various platforms and languages. Familiar with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. And i also love dogs🐶
+Experienced Front End Developer with expertise in maintenance and front end development of software systems. Equipped with a diverse and promising skill-set. Proficient in various platforms and languages. Familiar with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. And i also love dogs🐶
 
 
 ## 📲 My Links
@@ -21,7 +21,7 @@
 
 
 
-## 🔨 Skills
+🔨 Skills
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>  
@@ -39,13 +39,13 @@
 
 <br><br><br>
 
-## 📰 Social links
+📰 Social links
  - [LinkedIn](https://www.linkedin.com/in/maxim-hladchuk-7b1b701a4/)
  - [Instagram](https://www.instagram.com/maxhladchuk/)
  - [Leetcode (new)](https://leetcode.com/maximhladchuk/)
 
 
-## 👾 GitHub widgets
+👾 GitHub widgets
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxhladchuk&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
 
 
